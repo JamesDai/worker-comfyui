@@ -7,7 +7,7 @@
   "config": {
     "runsOn": "GPU",
     "containerDiskInGb": 20,
-    "gpuIds": "ADA_48_PRO,AMPERE_48",
+    "gpuIds": "ADA_24",
     "gpuCount": 1,
     "allowedCudaVersions": ["12.8", "12.9", "13.0"],
     "env": [
